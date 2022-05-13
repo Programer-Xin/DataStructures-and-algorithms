@@ -1,4 +1,4 @@
-package com.tjxd.sixth_chapter.sort;
+package com.tjxd.seventh_chapter.sort;
 
 
 import java.util.Arrays;

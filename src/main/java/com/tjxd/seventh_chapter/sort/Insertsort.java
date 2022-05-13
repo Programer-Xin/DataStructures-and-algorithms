@@ -1,4 +1,4 @@
-package com.tjxd.sixth_chapter.sort;
+package com.tjxd.seventh_chapter.sort;
 
 import java.util.Arrays;
 
@@ -14,7 +14,7 @@ import java.util.Arrays;
 此算法保证从位置0到位置p上的元素为已排序状态
 在第p躺 我们将位置p上的元素向左移动 直到它在前p+1个元素中的正确位置被找到
  */
-public class insertSort {
+public class Insertsort {
     public static void main(String[] args) {
         int arr[] = {34,8,64,51,32,21};
         insertionSort(arr);
